@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calc",
+            "request": "launch",
+            "mainClass": "Calc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EntradaDades",
+            "request": "launch",
+            "mainClass": "EntradaDades"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Papa",
+            "request": "launch",
+            "mainClass": "Papa"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hola",
+            "request": "launch",
+            "mainClass": "Hola"
+        }
+    ]
+}

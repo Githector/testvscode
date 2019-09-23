@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Vars",
+            "request": "launch",
+            "mainClass": "Vars",
+            "projectName": "vars_918f875a"
+        }
+    ]
+}
