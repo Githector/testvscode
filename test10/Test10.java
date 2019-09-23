@@ -2,7 +2,7 @@ public class Test10 {
     public static void main(String[] args) {
         float v1;
         float v2;
-        System.out.println("Introdueix el primer num");
+        System.out.println("Introdueix el primer número");
         v1 = Float.parseFloat(System.console().readLine());
         System.out.println("Introdueix el segon num");
         v2 = Float.parseFloat(System.console().readLine());     
